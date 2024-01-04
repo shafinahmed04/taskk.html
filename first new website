@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Taskk</title>
+    <link rel="stylesheet" href="css/sajek.css">
+    <style>
+                 p{
+            width: 70%%;
+        }
+                *{
+            margin: 0px;
+        }
+                .blog{
+            background-color: aquamarine;
+            width: 40%;
+            border: 5px solid tomato;
+            box-shadow:  10px 10px 10px teal;
+            border-radius: 20px;
+            margin: 10px 50px 5px 5px ;
+            text-align: justify;
+            padding: 30px;
+        }
+    </style>
+</head>
+<body>
+    <header class="header">
+        <h1><b><i>Sajek Valley</i></b></h1>
+    </header>
+
+   <div class="blog">
+    <h3><b><i>Sajek</i></b></h3>
+    <p>Sajek Valley is one of the most popular tourist spots in Bangladesh situated among the hills of the Kasalong range of mountains in Sajek union, Baghaichhari Upazila in Rangamati District.[3] The valley is 2,000 feet (610 m) above sea level.[4] Sajek Valley is known as the Queen of Hills & Roof of Rangamati.</p>
+   </div> 
+   <div class="blog">
+     <h3><b><i>Origin of name</i></b></h3>
+     <p>The name of Sajek Valley came from the Sajek River that originates from Karnafuli river. The Sajek river works as a border between Bangladesh and India.[5]</p>
+   </div>
+   <div class="blog">
+    <h3><b><i>Location</i></b></h3>
+    <p>Sajek is a union located in the north of Chittagong Hill Tracts. It's under Baghaichori Upazila in Rangamati hill district, it is situated 67 kilometres (42 mi) north-east from Khagrachhari town and 95 kilometres (59 mi) north from Rangamati city. The border of Bangladesh and Mizoram of India is 8 kilometres (5.0 mi) east from Sajek.[3]</p>
+   </div>
+   <h2>Creating for long in Free</h2>
+   <p><h2><b>Sing up</b></h2></p>
+   <form>
+    <input type="text" placeholder=" First Name" id="">
+    <br>
+    <br>
+    <input type="text" placeholder="Last name" id="">
+    <br>
+    <br>
+    <input type="email" placeholder="email" id="">
+    <br>
+    <br>
+    <input type="password" placeholder="password" id="">
+    <br>
+    <br>
+    <input type="submit" value="Sing up">
+   </form>
+   <p><h2><b>Log in</b></h2></p>
+   <form>
+    <input type="email" placeholder="email" id="">
+    <br>
+    <input type="password" placeholder="password" id="">
+    <br>
+    <input type="submit" value="Sing up">
+   </form> 
+</body>
+</html>
